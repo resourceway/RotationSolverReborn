@@ -1,0 +1,39 @@
+[
+  {
+    "Author": "CombatReborn, 闲鱼@fofo资源威（汉化）",
+    "Name": "Rotation Solver Reborn (完全汉化版)",
+    "InternalName": "RotationSolver",
+    "AssemblyVersion": "7.2.5.117",
+    "Description": "每帧分析战斗信息并找出最佳动作。\n\n这意味着战斗中一帧内几乎所有可用的信息，包括队伍中所有玩家的状态、任何敌意目标的状态、技能冷却时间、角色的MP和HP、角色位置、敌意目标的施放状态、连击、战斗持续时间、玩家等级等。\n\n然后，它将在热键栏上高亮最佳动作，或帮助你点击它。\n\n它专为"一般战斗"设计，而不是为高难度或绝境战斗。请谨慎使用。\n\n更多100%汉化插件，闲鱼关注@fofo资源威",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/resourceway/RotationSolverReborn",
+    "Tags": [
+      "combat",
+      "rotation",
+      "自动",
+      "自动循环",
+      "技能",
+      "rsr",
+      "RSR",
+      "汉化",
+      "中文"
+    ],
+    "CategoryTags": [
+      "jobs"
+    ],
+    "DalamudApiLevel": 12,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RotationSolverReborn/main/Images/Logo.png",
+    "Punchline": "每帧分析战斗信息并找出最佳动作。",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/resourceway/RotationSolverReborn/releases/download/7.2.5.117/RotationSolver.zip",
+    "DownloadLinkUpdate": "https://github.com/resourceway/RotationSolverReborn/releases/download/7.2.5.117/RotationSolver.zip",
+    "DownloadLinkTesting": null,
+    "DownloadCount": 1025,
+    "LastUpdate": 1735660800,
+    "Changelog": "完全汉化版本 v7.2.5.117\n- 全界面中文化\n- 修复所有汉化相关问题\n- 优化用户体验\n\n更多汉化插件请关注闲鱼@fofo资源威"
+  }
+]
